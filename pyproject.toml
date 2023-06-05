@@ -1,14 +1,14 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Custom_Unicode_Paser"
+name = "Inv-Man"
 version = "1.0.0"
 authors = [
   { name="Joseph Kuntson", email="jmknutson2012@gmail.com" },
 ]
-description = "A_Custom_Unicode_Paser"
+description = "A Inv Man"
 readme = "README.md"
 changelog = "CHANGELOG.md"
 requires-python = ">=3.7"
@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Joey1222/customunicodepaserpython"
-"Bug Tracker" = "https://github.com/Joey1222/customunicodepaserpython/issues"
+"Homepage" = "https://github.com/Joey1222/invman-pip-package-python"
+"Bug Tracker" = "https://github.com/Joey1222/invman-pip-package-python/issues"
