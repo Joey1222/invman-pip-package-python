@@ -25,7 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-pyproject.toml
+/pyproject.toml
 Inv-Man/test/
 
 # PyInstaller
