@@ -7,3 +7,6 @@ class Inventory():
             'item4': [-0, "air"],
             'item5': [-0, "air"],
         }
+
+    def InvGetItem(self, invitem: str):
+        return self.inv.get(invitem)
